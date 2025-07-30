@@ -13,6 +13,9 @@ There are 2 different types of project :
 1. Manually set up
 2. Automatically set up
 
-To run : 
-Manually : Select the right folder in vagrant directory and follow the instruction in ```.PDF``` files 
-Automaically : Select the right folder in vagrant directory and just commands ```vagrant up``` 
+<b>To run :</b>
+
+| Set up type | Description |
+| --- |--- |
+| Manually | Select the right folder in vagrant directory and follow the instruction in ```.PDF``` files <br> |
+| Automaically | Select the right folder in vagrant directory and just commands ```vagrant up``` |
